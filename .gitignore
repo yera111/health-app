@@ -1,0 +1,62 @@
+# Общие игнорируемые файлы
+.DS_Store
+*.log
+*.env
+.env.local
+.env.development
+.env.production
+.env.test
+.vscode/
+.idea/
+node_modules/
+dist/
+build/
+coverage/
+
+# Игнорируем файлы для Vite + React (medGPT_frontend)
+medGPT_frontend/node_modules/
+medGPT_frontend/dist/
+medGPT_frontend/.env
+medGPT_frontend/.vite/
+medGPT_frontend/.turbo/
+medGPT_frontend/yarn.lock
+medGPT_frontend/package-lock.json
+
+# Игнорируем файлы для Flask (medGPT_backend)
+medGPT_backend/__pycache__/
+medGPT_backend/instance/
+medGPT_backend/.env
+medGPT_backend/.venv/
+medGPT_backend/venv/
+medGPT_backend/db.sqlite3
+medGPT_backend/migrations/
+medGPT_backend/.pytest_cache/
+medGPT_backend/.coverage
+medGPT_backend/alembic.ini
+
+# Python кэш и виртуальные среды
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.swp
+*.swo
+*.pid
+
+# Logs и временные файлы
+*.log
+logs/
+debug.log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS файлы (Mac и Linux)
+*.swp
+.swp
+.swo
+.swp
+*.swo
+Thumbs.db

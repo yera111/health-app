@@ -1,0 +1,181 @@
+{
+    "users": {
+        "1": {
+            "id": 1,
+            "username": "aituar",
+            "age": 25,
+            "bmi": 24.5,
+            "data": [
+                {
+                    "date": "2024-12-22",
+                    "mood": 3,
+                    "steps": 9402,
+                    "sleep_hours": 4.8,
+                    "screen_time": 3,
+                    "symptom_level": 4,
+                    "feel_trend": -1,
+                    "medication_adherence": 0.7,
+                    "side_effects": 0
+                },
+                {
+                    "date": "2024-12-23",
+                    "mood": 5,
+                    "steps": 2599,
+                    "sleep_hours": 4.2,
+                    "screen_time": 3,
+                    "symptom_level": 3,
+                    "feel_trend": 1,
+                    "medication_adherence": 0.62,
+                    "side_effects": 2
+                },
+                {
+                    "date": "2024-12-24",
+                    "mood": 3,
+                    "steps": 12443,
+                    "sleep_hours": 5.8,
+                    "screen_time": 3,
+                    "symptom_level": 3,
+                    "feel_trend": -1,
+                    "medication_adherence": 0.92,
+                    "side_effects": 0
+                },
+                {
+                    "date": "2024-12-25",
+                    "mood": 3,
+                    "steps": 3695,
+                    "sleep_hours": 5.9,
+                    "screen_time": 4,
+                    "symptom_level": 3,
+                    "feel_trend": 0,
+                    "medication_adherence": 0.82,
+                    "side_effects": 5
+                },
+                {
+                    "date": "2024-12-26",
+                    "mood": 4,
+                    "steps": 3176,
+                    "sleep_hours": 5.3,
+                    "screen_time": 4,
+                    "symptom_level": 3,
+                    "feel_trend": 0,
+                    "medication_adherence": 0.94,
+                    "side_effects": 2
+                },
+                {
+                    "date": "2024-12-27",
+                    "mood": 3,
+                    "steps": 11527,
+                    "sleep_hours": 6.9,
+                    "screen_time": 2,
+                    "symptom_level": 4,
+                    "feel_trend": -1,
+                    "medication_adherence": 0.83,
+                    "side_effects": 0
+                },
+                {
+                    "date": "2024-12-28",
+                    "mood": 3,
+                    "steps": 2076,
+                    "sleep_hours": 6.4,
+                    "screen_time": 7,
+                    "symptom_level": 3,
+                    "feel_trend": -1,
+                    "medication_adherence": 0.72,
+                    "side_effects": 0
+                }
+            ]
+        },
+        "2": {
+            "id": 2,
+            "username": "damir",
+            "age": 30,
+            "bmi": 20,
+            "data": []
+        },
+        "3": {
+            "id": 3,
+            "username": "aziz",
+            "age": 22,
+            "bmi": 18,
+            "data": [
+                {
+                    "mood": "3",
+                    "steps": "4312",
+                    "sleep_hours": "5",
+                    "screen_time": "3",
+                    "symptom_level": "5",
+                    "feel_trend": "-1",
+                    "medication_adherence": "4",
+                    "side_effects": "3",
+                    "date": "2024-12-22"
+                },
+                {
+                    "mood": "5",
+                    "steps": "4514",
+                    "sleep_hours": "4",
+                    "screen_time": "6",
+                    "symptom_level": "4",
+                    "feel_trend": "1",
+                    "medication_adherence": 0.2,
+                    "side_effects": "4",
+                    "date": "2024-12-23"
+                },
+                {
+                    "mood": "4",
+                    "steps": "5000",
+                    "sleep_hours": "6",
+                    "screen_time": "4",
+                    "symptom_level": "3",
+                    "feel_trend": "0",
+                    "medication_adherence": "0.5",
+                    "side_effects": "2",
+                    "date": "2024-12-24"
+                },
+                {
+                    "mood": "4",
+                    "steps": "5000",
+                    "sleep_hours": "6",
+                    "screen_time": "4",
+                    "symptom_level": "3",
+                    "feel_trend": "0",
+                    "medication_adherence": "0.5",
+                    "side_effects": "2",
+                    "date": "2024-12-25"
+                },
+                {
+                    "mood": "4",
+                    "steps": "5000",
+                    "sleep_hours": "6",
+                    "screen_time": "4",
+                    "symptom_level": "3",
+                    "feel_trend": "0",
+                    "medication_adherence": "0.5",
+                    "side_effects": "2",
+                    "date": "2024-12-26"
+                },
+                {
+                    "mood": "4",
+                    "steps": "5000",
+                    "sleep_hours": "6",
+                    "screen_time": "4",
+                    "symptom_level": "3",
+                    "feel_trend": "0",
+                    "medication_adherence": "0.5",
+                    "side_effects": "2",
+                    "date": "2024-12-27"
+                },
+                {
+                    "mood": "6",
+                    "steps": "5123",
+                    "sleep_hours": "6",
+                    "screen_time": "3",
+                    "symptom_level": "6",
+                    "feel_trend": "-1",
+                    "medication_adherence": 0.4,
+                    "side_effects": "7",
+                    "date": "2024-12-28"
+                }
+            ]
+        }
+    }
+}

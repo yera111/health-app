@@ -1,0 +1,44 @@
+{
+    "users": {
+        "1": {
+            "id": 1,
+            "username": "user1",
+            "age": 25,
+            "bmi": 24.5,
+            "data": [
+                {
+                    "text": "This is my first diary entry",
+                    "date": "2024-12-30"
+                },
+                {
+                    "text": "Today was a great day!\n\nI ve done a lot of things actually\nI feel myself not so good, but its okay i guess. I met a lot of people, and it was a little bit awkard",
+                    "date": "2024-12-30"
+                }
+            ]
+        },
+        "2": {
+            "id": 2,
+            "username": "user2",
+            "age": 30,
+            "bmi": 20,
+            "data": []
+        },
+        "3": {
+            "id": 3,
+            "username": "user3",
+            "age": 22,
+            "bmi": 18,
+            "data": [
+                {
+                    "text": "I feel tired but took my medication. Mild headache.",
+                    "mood": 2,
+                    "symptom_level": 1,
+                    "feel_trend": -1,
+                    "medication_adherence": 1,
+                    "side_effects": 1,
+                    "date": "2024-12-30"
+                }
+            ]
+        }
+    }
+}
